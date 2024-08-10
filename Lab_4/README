@@ -9,5 +9,17 @@ E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is an
 
 After that, I typed sudo reboot and tried to install the packages again and it succeeds now.
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/ea159194-c5ab-4540-b7a7-710695cac5ea">
-![task42](https://github.com/user-attachments/assets/1501f485-0ed7-4238-983c-c422e885300e)
-![task42](https://github.com/user-attachments/assets/70cf0374-7490-4fdc-b417-345d357470bb)
+
+![task42](https://github.com/user-attachments/assets/78424809-fc8b-4b14-b3cc-21f84e08b28c)
+
+Then, I edited the testbench to change the name of the vcd to task4 as shown in the below snapshot
+<img width="964" alt="task43" src="https://github.com/user-attachments/assets/69b66f72-bd25-4ceb-a00c-8a559aa38bee">
+
+After that I run the below commands
+<img width="964" alt="task44" src="https://github.com/user-attachments/assets/97d74fc1-0d08-4423-97b4-a16a33cbe2fd">
+
+The instructions that should be debugged are hardcoded in the RTL in RISCV core as below
+<img width="964" alt="task451" src="https://github.com/user-attachments/assets/fe04c370-60d9-4adb-a2bd-76f00d7a0975">
+
+The debugging of the output vcd is shown below
+<img width="964" alt="452" src="https://github.com/user-attachments/assets/eb29d2b0-ec9b-4405-a618-aa7d64e5d4b6">
