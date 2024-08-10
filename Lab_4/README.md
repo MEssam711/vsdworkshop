@@ -11,8 +11,6 @@ E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is an
 After that, I typed sudo reboot and tried to install the packages again and it succeeds now.
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/ea159194-c5ab-4540-b7a7-710695cac5ea">
 
-![task42](https://github.com/user-attachments/assets/78424809-fc8b-4b14-b3cc-21f84e08b28c)
-
 Then, I edited the testbench to change the name of the vcd to task4 as shown in the below snapshot
 <img width="964" alt="task43" src="https://github.com/user-attachments/assets/69b66f72-bd25-4ceb-a00c-8a559aa38bee">
 
