@@ -1,5 +1,5 @@
 This is the first snapshot of doing the task steps:
-<img width="961" alt="task41" src="https://github.com/user-attachments/assets/109e8b09-fc2c-452e-9346-ab74a13c530e">
+<img width="740" alt="task41" src="https://github.com/user-attachments/assets/109e8b09-fc2c-452e-9346-ab74a13c530e">
 
 
 But I got these below two errors while installing the iverilog and gtkwave packages:
@@ -8,4 +8,4 @@ E: Could not get lock /var/lib/dpkg/lock-frontend - open (11: Resource temporari
 E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
 
 After that, I typed sudo reboot and tried to install the packages again and it succeeds now.
-<img width="964" alt="image" src="https://github.com/user-attachments/assets/ea159194-c5ab-4540-b7a7-710695cac5ea">
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/ea159194-c5ab-4540-b7a7-710695cac5ea">
